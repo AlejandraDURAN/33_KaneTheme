@@ -1,0 +1,44 @@
+.back1{
+	background-image: url("../img/carousel-bg.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover; 
+	height: 450px;
+}
+
+.text-white{
+	color: white;
+}
+
+.mt-15{
+	margin-top: 15%;
+}
+
+.pt-2{
+	padding-top: 2%;
+}
+
+.pb-2{
+	padding-bottom: 2%;
+}
+
+
+.back2{
+	background-color:#69D2E7;
+	height: 10em;
+}
+.back3{
+	background-color:#A7DBDB;
+	height: 10em;
+}
+.back4{
+	background-color:#E0E4CC;
+	height: 10em;
+}
+.back5{
+	background-color:#F38630;
+	height: 10em;
+}
+.back6{
+	background-color:#FA6900;
+	height: 10em;
+}

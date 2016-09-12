@@ -112,7 +112,7 @@ body{
 
 @media screen and (max-width: 768px){
 	img{
-		width: 70%;
+		width: 65%;
 	}
 	h1{
 		font-size: 30px;
@@ -123,6 +123,15 @@ body{
 	}
 	h3{
 		font-size: 14px;
+	}
+	#logo{
+		font-size: 40px;
+	}
+	.back7{
+		background-image: url("../img/img-divider-img.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover; 
+	height: 80px;
 	}
 
 	}

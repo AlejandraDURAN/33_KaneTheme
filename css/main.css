@@ -88,6 +88,10 @@ body{
 }
 
 /*Clases de posicionamiento*/
+
+.pl-2{
+	padding-left: 2%;
+}
 .mt-15{
 	margin-top: 15%;
 }
@@ -104,4 +108,28 @@ body{
 	display: inline-block;
 }
 
+/*jqueries*/
 
+@media screen and (max-width: 768px){
+	img{
+		width: 70%;
+	}
+	h1{
+		font-size: 30px;
+	}
+
+	h2{
+		font-size: 20px;
+	}
+	h3{
+		font-size: 14px;
+	}
+
+	}
+
+/*tamaño de los inputs/form*/
+	.input, textarea{
+	width:100% !important; 
+	margin-bottom:2%;
+	}
+}
